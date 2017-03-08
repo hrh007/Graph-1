@@ -3,6 +3,7 @@
 #include <string>
 #include<iostream>
 using namespace std;
+#include "PHI.h"
 #include "Node.h"
 #include "Stack.h"
 template <class S>
